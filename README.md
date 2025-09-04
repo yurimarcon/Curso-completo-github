@@ -2,7 +2,9 @@
 
 This is a course about Git and GitHub.
 
-The version of this repository is V1.5
+The version of this repository is V1.6
 
 
 Mateus.
+
+Gustavo.
