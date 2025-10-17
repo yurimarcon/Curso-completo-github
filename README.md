@@ -2,7 +2,9 @@
 
 This is a course about Git and GitHub.
 
-The version of this repository is V1.6
+The version of this repository is V1.7
 
 
-Adriane.
+Magno V Gomes.
+
+Every challenge, a chance for a fresh start!!
