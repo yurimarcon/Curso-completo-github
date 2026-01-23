@@ -13,3 +13,5 @@ Every challenge, a chance for a fresh start!!
 Olá, estou aprendendo Git.
 
 Klaivert Henrique
+
+Exercício Aula
