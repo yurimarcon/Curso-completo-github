@@ -13,3 +13,5 @@ Every challenge, a chance for a fresh start!!
 Olá, estou aprendendo Git.
 
 Klaivert Henrique
+
+Gostei d+ desse curso de Git e github (Davi)
