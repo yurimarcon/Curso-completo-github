@@ -1,7 +1,23 @@
-# Curso-completo-github
+ Curso-completo-github
 
 This is a course about Git and GitHub.
 
+<<<<<<< feature/git
+The version of this repository is V1.7
+
+Pratice task from Udemy Course - Willian
+
+Magno V Gomes.
+
+Every challenge, a chance for a fresh start!!
+
+Olá, estou aprendendo Git.
+
+Klaivert Henrique
+
+Gostei d+ desse curso de Git e github (Davi)
+=======
 The version of this repository is V1.3.
 
 Matheus atualizando a branch develop
+>>>>>>> develop
