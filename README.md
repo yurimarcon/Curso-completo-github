@@ -2,7 +2,6 @@
 
 This is a course about Git and GitHub.
 
-<<<<<<< feature/git
 The version of this repository is V1.7
 
 Pratice task from Udemy Course - Willian
@@ -14,10 +13,9 @@ Every challenge, a chance for a fresh start!!
 Olá, estou aprendendo Git.
 
 Klaivert Henrique
+----------------------------------------------------------
+Estou gostando muito do curso! Aprendendo bastante sobre controle de versão.
+Estou simulando uma correção urgente (hotfix) no meu projeto.
+Augusto Oliveira, Fortaleza - CE
 
-Gostei d+ desse curso de Git e github (Davi)
-=======
-The version of this repository is V1.3.
-
-Matheus atualizando a branch develop
->>>>>>> develop
+Olá, Gabriel Henrique V1.8
