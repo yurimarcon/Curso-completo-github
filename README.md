@@ -17,3 +17,5 @@ Klaivert Henrique
 Estou gostando muito do curso! Aprendendo bastante sobre controle de versão.
 Estou simulando uma correção urgente (hotfix) no meu projeto.
 Augusto Oliveira, Fortaleza - CE
+
+Estudante de T.I
