@@ -18,4 +18,16 @@ Estou gostando muito do curso! Aprendendo bastante sobre controle de versão.
 Estou simulando uma correção urgente (hotfix) no meu projeto.
 Augusto Oliveira, Fortaleza - CE
 
+Estudante de T.I
+
+--------------
+### nota = 10
+### nome = 'André'
+
+### print(f'Me chamo {nome}, estou gostando do curso! nota: {nota}')
+--------------
+
 Olá, Gabriel Henrique V1.8
+--------------
+
+Praticando o curso de Git e GitHub. A versão deste repositório é V1.9
