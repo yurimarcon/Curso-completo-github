@@ -27,4 +27,7 @@ Estudante de T.I
 ### print(f'Me chamo {nome}, estou gostando do curso! nota: {nota}')
 --------------
 
-Praticando o curso de Git e GitHub. A versão deste repositório é V1.8
+Olá, Gabriel Henrique V1.8
+--------------
+
+Praticando o curso de Git e GitHub. A versão deste repositório é V1.9
