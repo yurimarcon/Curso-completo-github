@@ -26,3 +26,4 @@ Estudante de T.I
 
 ### print(f'Me chamo {nome}, estou gostando do curso! nota: {nota}')
 --------------
+Estou tentanto. V1.8
