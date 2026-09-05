@@ -30,4 +30,6 @@ Estudante de T.I
 ### print(f'Me chamo {nome}, estou gostando do curso! nota: {nota}')
 --------------
 
+Olá pessoal sou Nathan-Martens estou estudando Git.
+
 'Estou treinando repositório no Github.'
